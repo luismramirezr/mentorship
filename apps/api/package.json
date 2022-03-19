@@ -1,0 +1,18 @@
+{
+  "name": "@mentorship/api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --silent",
+    "precommit": "yarn run test --findRelatedTests"
+  },
+  "devDependencies": {
+    "@mentorship/eslint-config": "*",
+    "@mentorship/jest-config": "*",
+    "@mentorship/ts-config": "*",
+    "ts-node": "^10.7.0",
+    "tsconfig-paths": "^3.14.0",
+    "typescript": "^4.6.2"
+  }
+}

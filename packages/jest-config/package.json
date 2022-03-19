@@ -1,7 +1,7 @@
 {
   "name": "@mentorship/jest-config",
   "version": "1.0.0",
-  "main": "jest.config.js",
+  "main": "jest-config",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^27.4.1",

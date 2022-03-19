@@ -1,0 +1,9 @@
+{
+  "extends": "@mentorship/ts-config",
+  "include": ["src"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "rootDir": "src",
+    "baseUrl": "./src"
+  }
+}
